@@ -1,0 +1,28 @@
+.cont-menu {
+    display: flex;
+    align-items: center;
+    padding: 15px 275px;
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+    top: 0;
+}
+.logo {
+    flex: 1;
+}
+.logo > h3 {
+    font-size: 25px;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+.menu-link > a {
+    padding: 0px 10px;
+    text-decoration: none;
+    color: #204E92;
+    font-weight: bold;
+}
+.active-menu {
+    background-color: white;
+    box-shadow: 0px 0px 4px grey;
+    transition: ease 1s;
+}

@@ -1,0 +1,38 @@
+.cont-studies {
+    display: flex;
+    align-items: center;
+    margin-top: 70px;
+    width: 80%;
+}
+.img-studies {
+    display: flex;
+    flex: 1;
+}
+.img-studies > img {
+    width: 650px;
+    margin-left: -63px;
+}
+.letter-studies > h2 {
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+    color: #2A6EC4;
+    font-weight: bold;
+}
+.letter-studies > p {
+    font-size: 16px;
+    text-transform: capitalize;
+    color: #0f2137;
+    font-weight: 400;
+    margin: 14px 0px;
+}
+.letter-studies i {
+    color: #22BB33;
+    margin-right: 5px;
+}
+.letter-studies span {
+    text-transform: uppercase;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: bold;
+}

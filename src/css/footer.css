@@ -1,0 +1,33 @@
+.cont-footer {
+    display: flex;
+    justify-content: center;
+    background-image: url('../assets/feature-atras.svg');
+    align-items: center;
+    height: 50vh;
+    margin-top: 29px;
+}
+.footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.footer h2 {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 10px 0px;
+}
+.footer h3 {
+    color: #225298;
+    font-size: 35px;
+    margin-bottom: 15px;
+}
+.icon i {
+    font-size: 40px;
+    margin: 15px 20px;
+    color: gray;
+}
+.icon i:hover {
+    color: black;
+    transition: ease 0.5s;
+    cursor: pointer;
+}

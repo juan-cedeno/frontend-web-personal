@@ -1,0 +1,55 @@
+.cont-tools {
+    display: flex;
+    justify-content: center;
+    margin: 100px 0px;
+}
+.tools {
+   display: flex;
+   align-items: center;
+   flex-wrap: wrap;
+   width: 670px;
+}
+.img-tools {
+    display: flex;
+    justify-content: center;
+    margin: 15px 8px;
+    width: 129px;
+    max-height: 129px;
+    padding: 9px;
+    border: 1px solid #cecece;
+    border-radius: 4px;
+}
+.img-tools:hover {
+    box-shadow: 0px 0px 1px black;
+    cursor: pointer;
+}
+.img-tools > img {
+    width: 100%;
+}
+.cont-contacto {
+    display: flex;
+    flex-direction: column;
+}
+
+.cont-contacto > p {
+    text-transform: capitalize;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 27px;
+    font-weight: 600;
+}
+.cont-phone {
+    display: flex;
+}
+.cont-phone i {
+    margin-right: 13px;
+    font-size: 45px;
+}
+.phone > p {
+    font-size: 20px;
+    text-transform: capitalize;
+}
+.number {
+    font-weight: bold;
+    font-size: 25px !important;
+}
