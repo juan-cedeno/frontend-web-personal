@@ -16,8 +16,8 @@ export const Studies = () => {
 
                     <h2>applied studies</h2>
                     <p><i className="fas fa-check"></i> electrical technician <span>instituto politécnico hainamosa</span></p>
-                    <p><i className="fas fa-check"></i> 4to semester software development <span>itla</span></p>
-                    <p><i className="fas fa-check"></i> level 1a english <span>academy european</span></p>
+                    <p><i className="fas incomplete fa-check"></i> 4to semester software development <span>itla</span></p>
+                    <p><i className="fas incomplete fa-check"></i> level 1a english <span>academy european</span></p>
                     <p><i className="fas fa-check"></i> Learning React.js from Scratch <span>samcode</span></p>
                     <p><i className="fas fa-check"></i> React: From zero (HOOK , MERN) <span>udemy</span></p>
                 </div>

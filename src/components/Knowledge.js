@@ -23,7 +23,7 @@ export const Knowledge = () => {
 
     return (
         <>
-            <h1 className = 'title'>knowledge</h1>
+            <h1 className = 'title'>skills</h1>
            <div className = 'cont-tools'>
                <div className = 'tools'>
                    {

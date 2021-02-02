@@ -25,7 +25,7 @@ export const Proyect = () => {
 
         <>
             
-            <h1 className = 'title'>Proyects</h1>
+            <h1 className = 'title'>Portafolio</h1>
               <div className = 'proyects' id = 'portafolio'>
                   {
                       loading ? <SkeletonProyect/>:
