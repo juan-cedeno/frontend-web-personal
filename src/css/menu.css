@@ -8,7 +8,18 @@
     top: 0;
 }
 .logo {
+    display: flex;
+    align-items: center;
     flex: 1;
+}
+
+.logo i {
+    font-size: 29px;
+    margin: 0px 10px;
+    color: gray;
+}
+.logo i:hover {
+    color: #222;
 }
 .logo > h3 {
     font-size: 25px;
